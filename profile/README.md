@@ -10,7 +10,7 @@ We build innovative WooCommerce solutions for the community.
 Below is a list of our most popular solutions:
 
 - [WooCommerce App Template](https://github.com/woosignal/flutter-woocommerce-app).
-- [Marketplace for WooCommerce stores](https://woosignal.com/woocommerce-app/shoplot).
+- [ShopLot Marketplace for WooCommerce stores](https://woosignal.com/woocommerce-app/shoplot).
 - [WooCommerce API Client for Flutter](https://github.com/woosignal/flutter-woocommerce-api).
 - [WordPress API Client for Flutter](https://github.com/woosignal/wp-json-api-flutter).
 - [WordPress FCM Notify Package](https://woosignal.com/plugins/wordpress/wp-notify).
